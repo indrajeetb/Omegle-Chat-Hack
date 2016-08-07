@@ -3,4 +3,4 @@ Omegle (oh·meg·ull) is a great way to meet new friends.Omegle, picks someone e
 
 People on omegle often think their chats are private and chats gets deleted once they disconnect from the conversation. Due to this false sense of security people often share sensitive information on it.
 
-Omegle-Chat-Hack is a tool which demonstrate how insecure these online chats are and how once can read private messages sent over omegle.
+Omegle-Chat-Hack is a tool which demonstrate how insecure these online chats are and how one can read private messages sent over omegle.
