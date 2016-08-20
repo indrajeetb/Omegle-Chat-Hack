@@ -17,6 +17,7 @@
 
 import itertools
 import urllib.request
+import os
 
 print("\t\t----------Omegle Chat Hack----------\n")
 f=str(0)
@@ -37,7 +38,10 @@ for j in range (0,numberofImagesWanted):
 				try :
 					req = urllib.request.urlopen(omRequest)
 					print('Chat downloaded \n***********************\n')
-					filename = str(''.join(i))+".png"
+					path = "images"
+					if not os.path.exists(path):
+						os.makedirs(path)
+					filename = os.path.join(path, str(''.join(i))+".png")
 					output = open(filename,"wb")
 					output.write(req.read())
 					output.close()
