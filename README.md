@@ -2,7 +2,7 @@
 
 **Author**- Indrajeet Bhuyan
 
-**Date**   - 7/08/3016
+**Date**   - 7/08/2016
 
 Omegle (oh·meg·ull) is a great way to meet new friends.Omegle, picks someone else at random and let you talk one-on-one. According to omegle, chats done on their site is safe as chats are done anonymously.
 
